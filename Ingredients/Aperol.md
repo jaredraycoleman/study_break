@@ -1,7 +1,7 @@
 ---
 type: ingredient
-name: "Aperol"
-category: "Liqueur"
+name: Aperol
+category: Liqueur
 in_stock: true
 ---
 

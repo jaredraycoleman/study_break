@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredients/Amaretto Liqueur.md",
+                "file": "Ingredients/Clementine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amaretto Liqueur"
+              "title": "Clementine"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingredients/Amaretto Liqueur.md",
+                "file": "Ingredients/Clementine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Amaretto Liqueur"
+              "title": "Backlinks for Clementine"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingredients/Amaretto Liqueur.md",
+                "file": "Ingredients/Clementine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Amaretto Liqueur"
+              "title": "Outgoing links from Clementine"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingredients/Amaretto Liqueur.md",
+                "file": "Ingredients/Clementine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Amaretto Liqueur"
+              "title": "Outline of Clementine"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +182,19 @@
   },
   "active": "717141fc855fcd24",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Ingredients/Chocolate Bitters.md",
+    "Ingredients/Campari.md",
+    "Ingredients/Cachaça.md",
+    "Ingredients/Bourbon.md",
+    "Ingredients/Blue Curaçao.md",
+    "Ingredients/Basil.md",
+    "Ingredients/Aperol.md",
+    "Ingredients/Angostura Bitters.md",
+    "Ingredients/Amaretto Liqueur.md",
+    "Ingredients/Agave Syrup.md",
     "The Study Break.md",
     "The Study Break Shopping List.md",
+    "Welcome.md",
     "Ingredients/Wine.md",
     "Ingredients/Whiskey.md",
     "Ingredients/Watermelon Liqueur.md",
@@ -198,16 +208,6 @@
     "Ingredients/Sugar.md",
     "Ingredients/Sprite Zero.md",
     "Ingredients/Simple Syrup.md",
-    "Ingredients/Rum.md",
-    "Ingredients/Rye Whiskey.md",
-    "Ingredients/Rucolino Liqueur.md",
-    "Ingredients/Rosemary.md",
-    "Ingredients/Rich Simple Syrup.md",
-    "Ingredients/Prosecco.md",
-    "Ingredients/Orgeat Syrup.md",
-    "Ingredients/Orange Curaçao.md",
-    "Ingredients/Orange.md",
-    "Ingredients/Orange Bitters.md",
     "Ingredients",
     "Cocktails"
   ]

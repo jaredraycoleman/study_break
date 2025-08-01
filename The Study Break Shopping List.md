@@ -1,12 +1,12 @@
 
 ```dataviewjs
 // Step 1: Get all in-stock ingredient paths
-const stocked = dv.pages('"Personal/Bar/Ingredients"')
+const stocked = dv.pages('"Ingredients"')
   .where(p => p.in_stock)
   .map(p => p.file.path); // raw path strings
 
 // Step 2: Get all cocktails with ingredient links
-const cocktails = dv.pages('"Personal/Bar/Cocktails"')
+const cocktails = dv.pages('"Cocktails"')
   .where(p => p.type === "cocktail" && Array.isArray(p.ingredients));
 
 // Step 3: Create a map: ingredient path → list of cocktails that use it
@@ -36,6 +36,6 @@ dv.table(
     ingredientToCocktails.get(path)
   ])
 );
-
 ```
+
 

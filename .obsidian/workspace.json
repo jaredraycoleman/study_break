@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 619.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffdb4629e6da7509",
+  "active": "717141fc855fcd24",
   "lastOpenFiles": [
     "Welcome.md",
     "The Study Break.md",

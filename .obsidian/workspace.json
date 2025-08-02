@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cocktails/Limoncello Spritz.md",
+                "file": "Ingredients/Limoncello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limoncello Spritz"
+              "title": "Limoncello"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "717141fc855fcd24",
   "lastOpenFiles": [
-    "Cocktails/Tinto de Verano.md",
     "Cocktails/Limoncello Spritz.md",
+    "Cocktails/Tinto de Verano.md",
     "Ingredients/Limoncello.md",
     "Ingredients/Lime.md",
     "Ingredients/Ginger Beer.md",

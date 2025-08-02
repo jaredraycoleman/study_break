@@ -1,7 +1,7 @@
 ---
 type: ingredient
-name: "Orgeat Syrup"
-category: "Syrup"
+name: Orgeat Syrup
+category: Syrup
 in_stock: true
 ---
 

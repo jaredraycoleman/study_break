@@ -1,7 +1,7 @@
 ---
 type: ingredient
-name: "Simple Syrup"
-category: "Syrup"
+name: Simple Syrup
+category: Syrup
 in_stock: true
 ---
 

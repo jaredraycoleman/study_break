@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredients/Clementine.md",
+                "file": "Ingredients/Mint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clementine"
+              "title": "Mint"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingredients/Clementine.md",
+                "file": "Ingredients/Mint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clementine"
+              "title": "Backlinks for Mint"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingredients/Clementine.md",
+                "file": "Ingredients/Mint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Clementine"
+              "title": "Outgoing links from Mint"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingredients/Clementine.md",
+                "file": "Ingredients/Mint.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clementine"
+              "title": "Outline of Mint"
             }
           },
           {
@@ -182,14 +182,15 @@
   },
   "active": "717141fc855fcd24",
   "lastOpenFiles": [
+    "Ingredients/Basil.md",
+    "Ingredients/Aperol.md",
+    "Ingredients/Angostura Bitters.md",
+    "Ingredients/Clementine.md",
     "Ingredients/Chocolate Bitters.md",
     "Ingredients/Campari.md",
     "Ingredients/Cachaça.md",
     "Ingredients/Bourbon.md",
     "Ingredients/Blue Curaçao.md",
-    "Ingredients/Basil.md",
-    "Ingredients/Aperol.md",
-    "Ingredients/Angostura Bitters.md",
     "Ingredients/Amaretto Liqueur.md",
     "Ingredients/Agave Syrup.md",
     "The Study Break.md",
@@ -207,7 +208,6 @@
     "Ingredients/Sweet Vermouth.md",
     "Ingredients/Sugar.md",
     "Ingredients/Sprite Zero.md",
-    "Ingredients/Simple Syrup.md",
     "Ingredients",
     "Cocktails"
   ]

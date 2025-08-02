@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredients/Ginger Beer.md",
+                "file": "Cocktails/Limoncello Spritz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ginger Beer"
+              "title": "Limoncello Spritz"
             }
           }
         ]
@@ -182,6 +182,11 @@
   },
   "active": "717141fc855fcd24",
   "lastOpenFiles": [
+    "Cocktails/Tinto de Verano.md",
+    "Cocktails/Limoncello Spritz.md",
+    "Ingredients/Limoncello.md",
+    "Ingredients/Lime.md",
+    "Ingredients/Ginger Beer.md",
     "Ingredients/Gin.md",
     "Ingredients/Egg.md",
     "Ingredients/Cynar.md",
@@ -203,11 +208,6 @@
     "Ingredients/Wine.md",
     "Ingredients/Whiskey.md",
     "Ingredients/Watermelon Liqueur.md",
-    "Ingredients/Water.md",
-    "Ingredients/Vodka.md",
-    "Ingredients/Triple Sec.md",
-    "Ingredients/Vermouth.md",
-    "Ingredients/Tonic Water.md",
     "Ingredients",
     "Cocktails"
   ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredients/Mint.md",
+                "file": "Ingredients/Ginger Beer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mint"
+              "title": "Ginger Beer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingredients/Mint.md",
+                "file": "Ingredients/Ginger Beer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mint"
+              "title": "Backlinks for Ginger Beer"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingredients/Mint.md",
+                "file": "Ingredients/Ginger Beer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mint"
+              "title": "Outgoing links from Ginger Beer"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingredients/Mint.md",
+                "file": "Ingredients/Ginger Beer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mint"
+              "title": "Outline of Ginger Beer"
             }
           },
           {
@@ -182,6 +182,10 @@
   },
   "active": "717141fc855fcd24",
   "lastOpenFiles": [
+    "Ingredients/Gin.md",
+    "Ingredients/Egg.md",
+    "Ingredients/Cynar.md",
+    "Ingredients/Mint.md",
     "Ingredients/Basil.md",
     "Ingredients/Aperol.md",
     "Ingredients/Angostura Bitters.md",
@@ -204,10 +208,6 @@
     "Ingredients/Triple Sec.md",
     "Ingredients/Vermouth.md",
     "Ingredients/Tonic Water.md",
-    "Ingredients/Tequila.md",
-    "Ingredients/Sweet Vermouth.md",
-    "Ingredients/Sugar.md",
-    "Ingredients/Sprite Zero.md",
     "Ingredients",
     "Cocktails"
   ]

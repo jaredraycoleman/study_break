@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.folder == "Ingredients"
+    - type == "ingredient"
+    - "!in_stock"
+formulas:
+  Ingredient: link(file.name, file.name)
+properties:
+  formula.Ingredient:
+    displayName: Missing Ingredient
+  note.category:
+    displayName: Category
+views:
+  - type: list
+    name: Shopping List
+    sort:
+      - property: note.category
+        direction: ASC
+      - property: formula.Ingredient
+        direction: ASC
+    order:
+      - formula.Ingredient
+      - category
+    markers: bullet
+    separator: " · "

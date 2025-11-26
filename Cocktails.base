@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.folder == "Cocktails"
+    - type == "cocktail"
+formulas:
+  Cocktail: link(file.name, file.name)
+  IngredientCount: ingredients.length
+properties:
+  formula.Cocktail:
+    displayName: Cocktail
+  note.name:
+    displayName: Name
+  note.description:
+    displayName: Description
+  note.ingredients:
+    displayName: Ingredients
+  formula.IngredientCount:
+    displayName: Count
+views:
+  - type: list
+    name: All
+    sort:
+      - property: formula.Cocktail
+        direction: ASC
+    order:
+      - formula.Cocktail
+      - description
+      - formula.IngredientCount
+    markers: bullet
+    separator: " · "

@@ -4,7 +4,7 @@ filters:
     - type == "cocktail"
 formulas:
   Cocktail: link(file.name, file.name)
-  IngredientCount: ingredients.length
+  AllInStock: ingredients.map(file(value).properties.in_stock).reduce(acc && value, true)
 properties:
   formula.Cocktail:
     displayName: Cocktail
@@ -14,9 +14,22 @@ properties:
     displayName: Description
   note.ingredients:
     displayName: Ingredients
-  formula.IngredientCount:
-    displayName: Count
+  formula.AllInStock:
+    displayName: Available
 views:
+  - type: list
+    name: Available
+    filters:
+      and:
+        - formula.AllInStock == true
+    sort:
+      - property: formula.Cocktail
+        direction: ASC
+    order:
+      - formula.Cocktail
+      - description
+    markers: bullet
+    separator: " · "
   - type: list
     name: All
     sort:
@@ -25,6 +38,5 @@ views:
     order:
       - formula.Cocktail
       - description
-      - formula.IngredientCount
     markers: bullet
     separator: " · "

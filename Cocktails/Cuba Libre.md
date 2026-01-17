@@ -2,11 +2,15 @@
 type: cocktail
 name: Cuba Libre
 description: A simple, refreshing mix of rum and coke, perfect for any party.
+image: "[[../images/cocktails/cuba-libre.png]]"
 ingredients:
   - "[[../Ingredients/Rum|Rum]]"
   - "[[../Ingredients/Coke|Coke]]"
   - "[[Lime]]"
 ---
+
+![[../images/cocktails/cuba-libre.png]]
+
 
 ## Ingredients
 - 2 oz [[../Ingredients/Rum|Rum]]

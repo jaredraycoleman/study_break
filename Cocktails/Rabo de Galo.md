@@ -2,6 +2,7 @@
 type: cocktail
 name: "Rabo de Galo"
 description: "A Brazilian cocktail with a mix of cachaça, sweet vermouth, Cynar, and a hint of orange bitters."
+image: "[[../images/cocktails/rabo-de-galo.png]]"
 ingredients:
   - "[[../Ingredients/Cachaça|Cachaça]]"
   - "[[../Ingredients/Sweet Vermouth|Sweet Vermouth]]"

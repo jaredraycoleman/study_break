@@ -2,6 +2,7 @@
 type: cocktail
 name: Margarita
 description: The classic tequila cocktail with triple sec and lime juice, sweetened with agave syrup.
+image: "[[../images/cocktails/margarita.png]]"
 ingredients:
   - "[[../Ingredients/Tequila|Tequila]]"
   - "[[../Ingredients/Triple Sec|Triple Sec]]"

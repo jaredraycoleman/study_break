@@ -2,6 +2,7 @@
 type: cocktail
 name: Tinto de Verano
 description: A light and refreshing drink made with wine, vermouth, and club soda, perfect for a summer afternoon.
+image: "[[../images/cocktails/tinto-de-verano.png]]"
 ingredients:
   - "[[../Ingredients/Wine|Wine]]"
   - "[[../Ingredients/Vermouth|Vermouth]]"

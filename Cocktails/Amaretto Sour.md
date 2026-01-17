@@ -2,6 +2,7 @@
 type: cocktail
 name: Amaretto Sour
 description: A sweet and sour mix featuring Amaretto, bourbon, and lemon juice, shaken vigorously with egg white for foamy top.
+image: "[[../images/cocktails/amaretto-sour.png]]"
 ingredients:
   - "[[../Ingredients/Amaretto Liqueur|Amaretto Liqueur]]"
   - "[[../Ingredients/Bourbon|Bourbon]]"
@@ -9,6 +10,9 @@ ingredients:
   - "[[../Ingredients/Rich Simple Syrup|Rich Simple Syrup]]"
   - "[[Egg]]"
 ---
+
+![[../images/cocktails/amaretto-sour.png]]
+
 
 ## Ingredients
 - 1.5 oz [[../Ingredients/Amaretto Liqueur|Amaretto Liqueur]]

@@ -2,6 +2,7 @@
 type: cocktail
 name: Long Island Iced Tea
 description: A potent combination of vodka, gin, rum, tequila, triple sec, and coke, sweetened with lemon juice.
+image: "[[../images/cocktails/long-island-iced-tea.png]]"
 ingredients:
   - "[[../Ingredients/Vodka|Vodka]]"
   - "[[../Ingredients/Gin|Gin]]"

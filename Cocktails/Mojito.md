@@ -2,6 +2,7 @@
 type: cocktail
 name: Mojito
 description: A refreshing mix of rum, mint, simple syrup, and club soda.
+image: "[[../images/cocktails/mojito.png]]"
 ingredients:
   - "[[../Ingredients/Rum|Rum]]"
   - "[[../Ingredients/Simple Syrup|Simple Syrup]]"
@@ -9,6 +10,9 @@ ingredients:
   - "[[Lime]]"
   - "[[Mint]]"
 ---
+
+![[../images/cocktails/mojito.png]]
+
 
 ## Ingredients
 - 2 oz [[../Ingredients/Rum|Rum]]

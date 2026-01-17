@@ -2,6 +2,7 @@
 type: cocktail
 name: Gin Lemon Sidecar
 description: A citrusy cocktail with gin, triple sec, and lemon juice, enhanced with a dash of orange bitters.
+image: "[[../images/cocktails/gin-lemon-sidecar.png]]"
 ingredients:
   - "[[../Ingredients/Gin|Gin]]"
   - "[[../Ingredients/Triple Sec|Triple Sec]]"
@@ -9,6 +10,9 @@ ingredients:
   - "[[Lemon|Lemon]]"
   - "[[../Ingredients/Orange Bitters|Orange Bitters]]"
 ---
+
+![[../images/cocktails/gin-lemon-sidecar.png]]
+
 
 ## Ingredients
 - 2 oz [[../Ingredients/Gin|Gin]]

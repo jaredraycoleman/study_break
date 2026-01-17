@@ -2,12 +2,15 @@
 type: cocktail
 name: Jen's Mojito
 description: A lighter version of the traditional Mojito, using Sprite Zero instead of club soda.
+image: "[[../images/cocktails/mamajito.png]]"
 ingredients:
   - "[[../Ingredients/Rum|Rum]]"
   - "[[../Ingredients/Sprite Zero|Sprite Zero]]"
   - "[[Lime]]"
   - "[[Mint]]"
 ---
+
+![[../images/cocktails/mamajito.png]]
 
 ## Ingredients
 - 2 oz [[../Ingredients/Rum|Rum]]

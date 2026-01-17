@@ -2,6 +2,7 @@
 type: cocktail
 name: Old Fashioned
 description: A timeless bourbon cocktail sweetened with simple syrup and enhanced with Angostura bitters and a hint of orange.
+image: "[[../images/cocktails/old-fashioned.png]]"
 ingredients:
   - "[[../Ingredients/Bourbon|Bourbon]]"
   - "[[../Ingredients/Simple Syrup|Simple Syrup]]"
@@ -9,6 +10,9 @@ ingredients:
   - "[[../Ingredients/Angostura Bitters|Angostura Bitters]]"
   - "[[Orange]]"
 ---
+
+![[../images/cocktails/old-fashioned.png]]
+
 
 ## Ingredients
 - 2 oz [[../Ingredients/Bourbon|Bourbon]]

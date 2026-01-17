@@ -2,6 +2,7 @@
 type: cocktail
 name: The Schmosby
 description: A fruity twist on the classic Margarita, with the addition of clementine juice alongside tequila and lime.
+image: "[[../images/cocktails/the-schmosby.png]]"
 ingredients:
   - "[[../Ingredients/Tequila|Tequila]]"
   - "[[../Ingredients/Triple Sec|Triple Sec]]"

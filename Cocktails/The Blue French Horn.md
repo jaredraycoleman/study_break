@@ -2,6 +2,7 @@
 type: cocktail
 name: The Blue French Horn
 description: A visually striking drink with gin, blue curacao, and lemon juice.
+image: "[[../images/cocktails/the-blue-french-horn.png]]"
 ingredients:
   - "[[../Ingredients/Gin|Gin]]"
   - "[[../Ingredients/Blue Curaçao|Blue Curaçao]]"

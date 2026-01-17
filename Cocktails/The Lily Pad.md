@@ -2,6 +2,7 @@
 type: cocktail
 name: The Lily Pad
 description: A refreshing blend of gin, mint, lime juice, and tonic, ideal for cooling down on a hot day.
+image: "[[../images/cocktails/the-lily-pad.png]]"
 ingredients:
   - "[[../Ingredients/Gin|Gin]]"
   - "[[Lime|Lime]]"

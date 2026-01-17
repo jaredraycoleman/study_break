@@ -2,12 +2,16 @@
 type: cocktail
 name: Negroni
 description: A strong, balanced cocktail with equal parts gin, Campari, and sweet vermouth, garnished with orange peel.
+image: "[[../images/cocktails/negroni.png]]"
 ingredients:
   - "[[../Ingredients/Gin|Gin]]"
   - "[[../Ingredients/Campari|Campari]]"
   - "[[../Ingredients/Sweet Vermouth|Sweet Vermouth]]"
   - "[[Orange]]"
 ---
+
+![[../images/cocktails/negroni.png]]
+
 
 ## Ingredients
 - 1 oz [[../Ingredients/Gin|Gin]]

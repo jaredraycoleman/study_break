@@ -2,6 +2,7 @@
 type: cocktail
 name: Limoncello Spritz
 description: A zesty, sparkling cocktail that combines the sweetness of limoncello with the dryness of prosecco and a splash of soda water.
+image: "[[../images/cocktails/limoncello-spritz.png]]"
 ingredients:
   - "[[../Ingredients/Limoncello|Limoncello]]"
   - "[[../Ingredients/Prosecco|Prosecco]]"

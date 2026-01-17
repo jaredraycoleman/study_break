@@ -2,12 +2,16 @@
 type: cocktail
 name: Gin & Tonic
 description: A classic drink with a twist, adding lemon juice and a sprig of rosemary to the traditional gin and tonic.
+image: "[[../images/cocktails/gin-and-tonic.png]]"
 ingredients:
   - "[[../Ingredients/Gin|Gin]]"
   - "[[Lemon|Lemon]]"
   - "[[../Ingredients/Rosemary|Rosemary]]"
   - "[[../Ingredients/Tonic Water|Tonic Water]]"
 ---
+
+![[../images/cocktails/gin-and-tonic.png]]
+
 
 ## Ingredients
 - 2 oz [[../Ingredients/Gin|Gin]]

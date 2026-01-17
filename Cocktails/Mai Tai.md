@@ -2,6 +2,7 @@
 type: cocktail
 name: Mai Tai
 description: A tropical delight featuring rum, orange curacao or Grand Marnier, orgeat syrup, and lime juice.
+image: "[[../images/cocktails/mai-tai.png]]"
 ingredients:
   - "[[../Ingredients/Rum|Rum]]"
   - "[[../Ingredients/Orange Curaçao|Orange Curaçao]]"

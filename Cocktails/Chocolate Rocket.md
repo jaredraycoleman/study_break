@@ -2,6 +2,7 @@
 type: cocktail
 name: Chocolate Rocket
 description: An Old Fashioned with a twist, featuring chocolate bitters and rucolino liqueur for a rich, complex flavor.
+image: "[[../images/cocktails/chocolate-rocket.png]]"
 ingredients:
   - "[[../Ingredients/Whiskey|Whiskey]]"
   - "[[../Ingredients/Dark Rum|Dark Rum]]"
@@ -9,6 +10,9 @@ ingredients:
   - "[[../Ingredients/Simple Syrup|Simple Syrup]]"
   - "[[../Ingredients/Chocolate Bitters|Chocolate Bitters]]"
 ---
+
+![[../images/cocktails/chocolate-rocket.png]]
+
 
 ## Ingredients
 - 1 oz [[../Ingredients/Whiskey|Whiskey]]

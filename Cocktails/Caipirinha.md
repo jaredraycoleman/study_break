@@ -2,11 +2,15 @@
 type: cocktail
 name: Caipirinha
 description: Brazil's national cocktail, made with lime, sugar, and cachaça or rum.
+image: "[[../images/cocktails/caipirinha.png]]"
 ingredients:
   - "[[../Ingredients/Cachaça|Cachaça]]"
   - "[[../Ingredients/Lime|Lime]]"
   - "[[Sugar]]"
 ---
+
+![[../images/cocktails/caipirinha.png]]
+
 
 ## Ingredients
 - 2 oz [[../Ingredients/Cachaça|Cachaça]]

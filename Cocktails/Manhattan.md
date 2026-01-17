@@ -2,6 +2,7 @@
 type: cocktail
 name: "Manhattan"
 description: "A sophisticated mix of rye whiskey, sweet vermouth, and Angostura bitters, garnished with a maraschino cherry."
+image: "[[../images/cocktails/manhattan.png]]"
 ingredients:
   - "[[../Ingredients/Rye Whiskey|Rye Whiskey]]"
   - "[[../Ingredients/Sweet Vermouth|Sweet Vermouth]]"

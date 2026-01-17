@@ -2,6 +2,7 @@
 type: cocktail
 name: Jalapeño Margarita
 description: A spicy version of the classic Margarita, with jalapeño and basil leaves adding a flavorful kick.
+image: "[[../images/cocktails/jalapeño-margarita.png]]"
 ingredients:
   - "[[../Ingredients/Tequila|Tequila]]"
   - "[[../Ingredients/Triple Sec|Triple Sec]]"

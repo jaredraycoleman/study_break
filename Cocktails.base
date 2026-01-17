@@ -14,10 +14,12 @@ properties:
     displayName: Description
   note.ingredients:
     displayName: Ingredients
+  note.image:
+    displayName: Image
   formula.AllInStock:
     displayName: Available
 views:
-  - type: list
+  - type: cards
     name: Available
     filters:
       and:
@@ -25,18 +27,18 @@ views:
     sort:
       - property: formula.Cocktail
         direction: ASC
+    image: note.image
+    imageAspectRatio: 1
     order:
       - formula.Cocktail
       - description
-    markers: bullet
-    separator: " · "
-  - type: list
+  - type: cards
     name: All
     sort:
       - property: formula.Cocktail
         direction: ASC
+    image: note.image
+    imageAspectRatio: 1
     order:
       - formula.Cocktail
       - description
-    markers: bullet
-    separator: " · "

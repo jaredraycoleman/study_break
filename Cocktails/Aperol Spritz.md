@@ -2,12 +2,16 @@
 type: cocktail
 name: Aperol Spritz
 description: A light and bubbly Italian aperitivo made with Aperol, prosecco, and soda water. Refreshing and low in alcohol.
+image: "[[../images/cocktails/aperol-spritz.png]]"
 ingredients:
   - "[[../Ingredients/Aperol|Aperol]]"
   - "[[../Ingredients/Prosecco|Prosecco]]"
   - "[[../Ingredients/Club Soda|Club Soda]]"
   - "[[Orange]]"
 ---
+
+![[../images/cocktails/aperol-spritz.png]]
+
 ## Ingredients
 - 3 oz [[../Ingredients/Prosecco|Prosecco]]
 - 2 oz [[../Ingredients/Aperol|Aperol]]

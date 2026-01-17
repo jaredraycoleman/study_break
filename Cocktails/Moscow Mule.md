@@ -2,6 +2,7 @@
 type: cocktail
 name: Moscow Mule
 description: A crisp vodka drink with ginger beer and a touch of mint.
+image: "[[../images/cocktails/moscow-mule.png]]"
 ingredients:
   - "[[../Ingredients/Vodka|Vodka]]"
   - "[[../Ingredients/Ginger Beer|Ginger Beer]]"

@@ -2,6 +2,7 @@
 type: cocktail
 name: Basil Smash
 description: A herbaceous drink combining gin, triple sec, lime juice, and fresh basil leaves.
+image: "[[../images/cocktails/basil-smash.png]]"
 ingredients:
   - "[[../Ingredients/Gin|Gin]]"
   - "[[../Ingredients/Triple Sec|Triple Sec]]"
@@ -9,6 +10,9 @@ ingredients:
   - "[[Lime|Lime]]"
   - "[[Basil]]"
 ---
+
+![[../images/cocktails/basil-smash.png]]
+
 
 ## Ingredients
 - 2 oz [[../Ingredients/Gin|Gin]]

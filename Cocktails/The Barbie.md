@@ -2,6 +2,7 @@
 type: cocktail
 name: The Barbie
 description: A playful gin-based cocktail with watermelon liqueur and lemon juice, perfect for a summer evening.
+image: "[[../images/cocktails/the-barbie.png]]"
 ingredients:
   - "[[../Ingredients/Gin|Gin]]"
   - "[[../Ingredients/Watermelon Liqueur|Watermelon Liqueur]]"
